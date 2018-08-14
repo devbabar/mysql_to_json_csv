@@ -59,3 +59,16 @@ This how our database "houseprice" and table "realestate" looks like.
 This screen will ask user to type filenames for Json and CSV output files.
 
 ![](screenshots/1-input-screen.png)
+
+### Output files.
+Running this will create output files.
+
+![](screenshots/2-result.png)
+
+### Output CSV file.
+
+![](screenshots/3-csv-result.png)
+
+### Output Json file.
+
+![](screenshots/4-json-result.png)
