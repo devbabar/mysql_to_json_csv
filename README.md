@@ -72,3 +72,8 @@ Running this will create output files.
 ### Output Json file.
 
 ![](screenshots/4-json-result.png)
+
+### User input error handling.
+Basic error handling applied. Users are only allowed to input string filename, not digits. Warning keep prompting till get a correct filename.
+
+![](screenshots/6-error-handling.png)
