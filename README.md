@@ -50,6 +50,11 @@ def dbconnect():
 Open mysql_to_json file in PyCharm and run.
 
 # ---- Demo ----
+### Database
+This how our database "houseprice" and table "realestate" looks like.
+
+![](screenshots/5-database-table.png)
+
 ### First user input screen.
 This screen will ask user to type filenames for Json and CSV output files.
 
